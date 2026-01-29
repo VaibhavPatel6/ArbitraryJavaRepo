@@ -2,7 +2,7 @@ package ArbitraryJavaRepo;
 
 public class hello {
     public static void main(String[] args) {
-        System.out.println("Hello from Me!");
+        System.out.println("Hello from Friend!");
         System.out.println("This is my file.");
         System.out.println("This is actually my first commit");
     }
